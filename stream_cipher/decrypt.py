@@ -1,3 +1,11 @@
+
+# This code decrypt cipher text without and key stream or 
+# without any value of 'a' and 'b' 
+
+# This program is @incomplete
+# I am so confused about this program 
+
+
 dict_ = {chr(i + 97) : i for i in range(26)}
 print(dict_)
 
